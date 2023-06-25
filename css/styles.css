@@ -422,6 +422,10 @@ section.about {}
   text-transform: uppercase;
 }
 
+.footer-form {
+  display: flex;
+}
+
 .footer-form-btn {
   width: 79px;
   height: 48px;
